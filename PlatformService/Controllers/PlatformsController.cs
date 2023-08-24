@@ -96,8 +96,6 @@ namespace PlatformService.Controllers
 
         //testing 1234
 
-        //testing again and again
-
         
         }
     }
